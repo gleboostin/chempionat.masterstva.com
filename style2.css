@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background: url(IMG_1409.PNG);
+}
+
+.header-box {
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.section-box{
+    margin-top: 200px;
+    text-align: center;
+    
+}
+
+
+.sal{
+    margin-top: 10px;
+    
+}
+.wow{
+    margin-top: 25px;
+}
+.wo{
+    margin-top: 10px;
+    color:  rgb(0, 107, 107);
+} 
+.spik{
+ text-align: left;
+ margin-top: 30px;
+ font-size: 24px;
+}
+
+.w{
+    margin-top: 25px;
+}
+
+.st{
+
+    margin-top: 19px;
+    color:  rgb(0, 107, 107);
+}

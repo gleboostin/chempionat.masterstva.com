@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    overflow-x:hidden;
+}
+header{
+background: url(./IMG_1409.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+h1{
+    font-size: 90px;
+    font-weight: 900;
+font-family: oswald;
+text-align: right;
+margin-top: -120px;
+margin-left: -120px;
+}
+
+.bue{
+    width: 260px;
+    height: 50px; 
+    border-radius: 15px;
+    margin-left: 750px;
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    tab-size: 32px;
+    border: 3px solid black;
+    font-size:33px;
+    color: black;
+    display: block;
+    padding-top: 7px;
+    padding-left: 7px;
+}
+
+.well{
+    font-size: 30px;
+    margin-top: -130px;
+ text-align: left;
+font-family: Exo 2;
+margin-right: 500px;
+
+}
+.info{
+    width: 260px;
+    height: 50px; 
+    border-radius: 15px;
+    margin-left: 750px;
+    margin-top: 20px;
+    background-color: aqua;
+    tab-size: 32px;
+     border: 3px solid black;
+    font-size:31px;
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-left: 7px;
+}
+ p{
+    margin-left: 750px;
+    font-size: 23px;
+ }
+
+.foot{
+   width: 1400px;
+   height: 750px;
+margin-left: -500px;
+margin-top: -170px;
+
+}
+
+
+.logo{
+   margin-left: 900px;
+   margin-top:-760px;
+   
+}
+
+.log{
+width: 500px;
+height: 500px;
+
+}
+
+.header-box {
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.section-box{
+    margin-top: 200px;
+    text-align: center;
+}
+
+
+.sal{
+    margin-top: 10px;
+    
+}
+.wow{
+    margin-top: 25px;
+}
+.wo{
+    margin-top: 10px;
+    color:  rgb(0, 107, 107);
+} 
+.spik{
+ text-align: left;
+ margin-top: 30px;
+ font-size: 24px;
+}
+
+.w{
+    margin-top: 25px;
+}
+
+.st{
+
+    margin-top: 19px;
+    color:  rgb(0, 107, 107);
+}
+
+.partner{
+    margin-top: 100px;
+}
+
+.par{
+    color: aqua;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.x{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+
+} 
+
+
+.raund{
+  width: 300px;
+  height: 200px;  
+  margin-top: 20px;
+}
+
+al{
+    margin-top: 20px;
+}
+
+
+.kompanii{
+  gap: 45px
+  ;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.alform{
+    margin-top: 25px;
+    transition: 2.5s ease-in-out;
+}
+
+.alform :hover{
+    scale: 1.5;
+}
+
+
+.raun{
+    margin-top: 25px;
+    transition: 0.2s ease-in-out;
+}
+
+.raun :hover{
+    scale: 1,5;
+}
+
+.ixs{
+    transition: 0.2s ease-in-out;
+   
+   
+}
+
+.ixs.hover{
+    scale: 1.5;
+}
+
+.buf{
+    background: url(IMG_1409.PNG);
+margin-top: 30px;
+    height: 400px;
+    position: relative;
+}
+
+
+.huk{
+    font-size: 40px;
+    font-weight: 900;
+font-family: oswald; 
+padding-top: 150px;
+}
+
+.hu{
+    width: 260px;
+    height: 50px; 
+    border-radius: 15px;
+    tab-size: 32px;
+    background-color: aqua;
+   margin-left: 900px;
+   box-shadow: 0px 5px 10px black;
+   border: 3px solid black;
+   font-size:33px;
+   color: black;
+   display: block;
+   text-decoration: none;
+   padding-top: 7px;
+    padding-left: 7px;
+}
+
+
+.li{
+    font-size: 40px;
+    font-weight: 900;
+font-family: oswald; 
+text-align: center;
+margin-top: 100px;
+
+}
+
+.subota{
+    text-align: left;
+    padding-top: 200px;
+    font-size: 40px; color: aqua;
+}
+
+.sub{
+    margin-left: 400px;
+    border: 5px solid aqua;
+background: url(IMG_1409.PNG);
+width: 900px;
+}
+
+.su{
+    margin-top: -20px;
+}
+
+.vosk{
+    margin-left: 180px;
+    color: aqua;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+.vos{
+    margin-left: 570px;
+    border: 5px solid aqua;
+    background: url(IMG_1409.PNG);
+}
